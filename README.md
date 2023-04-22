@@ -1,6 +1,6 @@
-# Machine Learning Project-Predicting Fire Brigade Notional Price
+# Machine Learning Project
 
-## Introduction
+## Predicting Fire Brigade Notional Price
 
 London Fire Brigade is forced to allocate a large number of fire-fighters as well as pumps around London on a daily basis. This is a time-consuming process for the LFB1, as well as a real grapple for fire-fighters.
 
